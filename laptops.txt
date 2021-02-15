@@ -1,0 +1,6 @@
+11 IdeaPadS145       4 1 15.6 windows10    integrated  intelCorei3  30990
+12 hp15Ryzen         4 1 15.6 windows10    rtx2021     dualCore     30000
+13 asusVivoBook      8 1 14   windows10    integrated  AMDryzen5    44500
+14 acer0001          4 1 14   windows10    integrated  intelPentium 24000
+15 acerNitro         8 1 15.6 windows10    rtxGddr5    AMDryzen5    55000
+16 macbookAir        8 1 13.3 cataliana    integrated  intelCorei5  68000   
