@@ -1,0 +1,7 @@
+1 googlePixel      androidPie  6.67  quad(64mp,8mp,5mp,2mp)  4g 8 dual 4000 29000
+2 vivoV7Pro        android10   6.53  quad(13mp,8mp,2mp,2mp)  4g 8 dual 5000 16000
+3 motorolaG9       android10   6.78  triple(64mp,2mp,2mp)    4g 4 dual 6000 12000  
+4 onePlus8         android10   6.55  triple(48mp,8mp,5mp)    4g 6 dual 4300 40000  
+5 iphone12ProMax   third-ios13    6.7   triple(12mp,12mp,12mp)  4g 6 dual 4000 130000  
+6 GalaxyM51        android10   6.7   quad(64mp,8mp,2mp,2mp)  4g 6 dual 7000 23500 
+7 pocoM2Pro        android10   6.67  quad(48mp,8mp,5mp,2mp)  4g 6 dual 5000 14000   
