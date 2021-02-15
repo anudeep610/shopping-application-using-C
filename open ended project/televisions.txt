@@ -1,6 +1,0 @@
-21 onePlusY      43 black  fullHD 25000
-22 lgSmartTv     43 silver fullHD 29000
-23 XiaomiQ1      55 blue   QLED4k 55000
-24 lgSmartTv2    77 black  4KOLED 850000
-25 vuMasterPiece 85 black  4kQLED 290000
-26 TCLAndroid    85 gold   4K     500000  
