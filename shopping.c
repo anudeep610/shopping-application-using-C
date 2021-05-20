@@ -8,6 +8,7 @@ int cartCount = 0, amount = 0;
 bool loginStatus = 0;
 char uname[20];
 
+
 struct ele
 {
     int id;
